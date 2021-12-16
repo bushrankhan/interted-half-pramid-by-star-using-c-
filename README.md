@@ -1,0 +1,1 @@
+# interted-half-pramid-by-star-using-c-
